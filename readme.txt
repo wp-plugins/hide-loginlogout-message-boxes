@@ -4,7 +4,7 @@ Donate link: http://www.mretzlaff.com/wordpress-plugins/donate/
 Tags: plugin, wordpress, backend, login, messagebox, messages, hide, delete, remove, skip, boxes
 Requires at least: 2.0.2
 Tested up to: 2.9.1
-Stable tag: 2.9
+Stable tag: 1.0
 
 This plugin will hide the yellow (default) message box(es) on the login & logout screens. 
 
