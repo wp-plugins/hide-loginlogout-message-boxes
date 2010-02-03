@@ -1,4 +1,4 @@
-=== Hide login/logout message boxes ===
+=== Hide login and logout message boxes ===
 Contributors: M. Retzlaff
 Donate link: http://www.mretzlaff.com/wordpress-plugins/donate/
 Tags: plugin, wordpress, backend, login, messagebox, messages, hide, delete, remove, skip, boxes
